@@ -3,7 +3,4 @@
 # version: 1.0.1
 # authors: ilikourou
 
-register_css <<CSS
-
-
-CSS
+register_asset "javascripts/discourse/templates/connectors/site-map-links/site-map-links.hbs"
