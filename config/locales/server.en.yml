@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    hamburger_items_active: "Activate hamburger menu items plugin"
+    hamburger_items_code: "Enter code to be appended in hamburger menu"

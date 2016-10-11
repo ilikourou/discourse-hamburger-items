@@ -1,0 +1,7 @@
+hamburger_items:
+  hamburger_items_active:
+    default: false
+    client: true
+  hamburger_items_code:
+    client: ''
+    default: ''
